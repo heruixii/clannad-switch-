@@ -1,0 +1,302 @@
+﻿scene	code_index	jp_text	en_text	zh_text	source
+SEEN0414	1577	上書きで何か吹き込む$dやめておく	Record your own voice over it$dJust leave it there	录点什么上去$d算了	global-jp-exact
+SEEN0414	1606	やめた。アホらし…$d適当に思いついた言葉を発する	Forget it. This is stupid...$dJust say whatever comes to mind	不玩了。太傻…$d随便说几句	global-jp-exact
+SEEN0415	947	サボる$d受ける	Skip class$dSit through class	逃课$d认认真真上课	global-jp-duplicate-same-zh
+SEEN0415	2212	サボる$d受ける	Skip class$dSit through class	逃课$d认认真真上课	global-jp-duplicate-same-zh
+SEEN0415	3220	中庭に下りる$d放っておく	Go down to the courtyard$dDo nothing	到庭院去$d不去管她	global-jp-exact
+SEEN0415	3580	もう立ち去る$dまだ話を続ける	Just leave$dKeep talking	是时候离开了$d再继续谈话	global-jp-exact
+SEEN0415	4214	気になる$d気にならない	I feel concerned$dI don't feel concerned	在意$d不在意	global-jp-exact
+SEEN0415	5256	話しかける$d放っておく	Talk to her$dDo nothing	向她搭话$d不去管她	global-jp-exact
+SEEN0416	72	昨日の女の子のこと…$d昔のこと…	That girl from yesterday...$dMy own past...	昨天的女孩…$d过去的事情…	global-jp-exact
+SEEN0416	651	行く$d行かない	Go with Sunohara$dStay	去$d不去	global-jp-duplicate-same-zh
+SEEN0416	977	サボる$dやめておく	Skip class$dDon't skip	逃课$d还是算了	pc-same-scene
+SEEN0416	1182	走って買いにいく$dそこまですることはない	Run to buy a sandwich$dNo reason to make that much of an effort	跑去买$d用不着那样做	global-jp-exact
+SEEN0416	2607	手伝う$dひとりでやらせる	Help$dMake her do it alone	帮忙$d让她一个人做	global-jp-exact
+SEEN0417	1022	ついていく$d放っておく	Follow him$dDo nothing	跟着他去$d不去管他	global-jp-duplicate-same-zh
+SEEN0417	2043	ついていく$d放っておく	Follow him$dDo nothing	跟着他去$d不去管他	global-jp-duplicate-same-zh
+SEEN0417	2636	サボる$dやめておく	Skip class$dStay around	逃课$d还是算了吧	pc-same-scene
+SEEN0417	3948	探しに出る$d待ち続ける	Go look for her$dKeep waiting	出去找找她$d继续等下去	global-jp-exact
+SEEN0417	3978	隣の教室を覗いてみる$d別の場所を探す	Look in the class next door$dCheck somewhere else	去隔壁的教室看一下$d到其它的地方去找找看	global-jp-exact
+SEEN0417	4073	校内で暇を潰す$d校外で暇を潰す	Waste time inside school$dWaste time outside school	在校内闲逛$d去校外闲逛	global-jp-exact
+SEEN0417	4121	寝ていく$d校外で暇を潰す	Sleep$dWaste time outside school	睡一觉$d去校外闲逛	global-jp-exact
+SEEN0417	4288	話しかける$d見送る	Talk to her$dWatch as she leaves	向她搭话$d目送她离去	global-jp-exact
+SEEN0418	738	図書室$d教室に戻る	The library$dReturn to the classroom	图书室$d回教室	manual-jp
+SEEN0418	752	空き教室$d教室に戻る	An empty classroom$dReturn to the classroom	空教室$d回教室去	global-jp-exact
+SEEN0418	766	図書室$d空き教室$d教室に戻る	The library$dAn empty classroom$dReturn to the classroom	图书室$d空教室$d回教室	manual-jp
+SEEN0418	803	寝にいく$dやっぱり教室に戻る	Go sleep$dReturn to the classroom after all	到那里去睡$d还是回教室去吧	global-jp-exact
+SEEN0418	1167	話しかける$d見送る	Talk to her$dWatch as she leaves	向她搭话$d目送她离去	global-jp-exact
+SEEN0419	695	旧校舎へ$d真っ直ぐ帰る	Go to the old school building$dGo straight home	去旧校舍$d直接回家	global-jp-exact
+SEEN0419	732	図書室へ$d部室へ$d資料室へ	To the library$dTo the club rooms$dTo the reference room	去图书室$d去社团活动室$d去资料室	manual-jp
+SEEN0419	758	図書室へ$d部室へ$d帰る	To the library$dTo the club rooms$dGo home	去图书室$d去社团活动室$d回去	manual-jp
+SEEN0420	168	ついていく$d無視	Follow him$dIgnore him	跟他去$d不理他	global-jp-exact
+SEEN0420	505	漫画を探す$d遊んでみる	Find some manga$dTry reading the adventure book	找别的漫画看$d玩玩看	global-jp-exact
+SEEN0421	94	真面目に起きていく$d遅刻していく	Wake up like a good student$dBe late	认认真真地起床上学$d迟点再去吧	global-jp-exact
+SEEN0421	969	やめておく$dあくまで美佐枝さんの部屋へ	Don't go$dPersist and go to Misae-san's room	还是算了$d坚持去美佐枝的房间	manual-jp
+SEEN0421	991	やめておく$dあくまで美佐枝さんの部屋へ	Don't go$dPersist and go to Misae-san's room	还是算了$d坚持去美佐枝的房间	manual-jp
+SEEN0422	208	こんにちは、と言え$d俺を見つけるリアクションから入れ$dまず自己紹介しろ	Say hello$dReact to finding me$dStart by introducing yourself	问候说：你好$d先摆出一副找到了我的样子$d先作自我介绍	global-jp-duplicate-same-zh
+SEEN0422	1405	手伝う$d手伝わない	Help$dDon't help	帮忙$d不帮忙	global-jp-duplicate-same-zh
+SEEN0422	1837	手伝う$d手伝わない	Help$dDon't help	帮忙$d不帮忙	global-jp-duplicate-same-zh
+SEEN0423	374	こんにちは、と言え$d俺を見つけるリアクションから入れ$dまず自己紹介しろ	Say ❝Hello.❞$dReact to finding me$dStart by introducing yourself	问候说：你好$d先摆出一副找到了我的样子$d先作自我介绍	global-jp-duplicate-same-zh
+SEEN0423	578	水を口に含んでから言え$d常に語尾に『それと便座カバー』と付けろ$dいっこくどう風に言え	Say it with water in your mouth$dAlways add ❝and a toilet seat cover❞ to the end of your sentences$dSay it like Ikkokudou	嘴里先含上一口水再说$d每句话句尾都加上句『还有马桶盖』$d学一石堂那样说话	pc-same-scene
+SEEN0423	939	ホームで離ればなれになる恋人のように$d命を捨てて地球を救う宇宙飛行士のように$d回想シーンだけで数巻にも及ぶ漫画のように	Act like we're lovers parting ways at a train station$dAct like an astronaut about to sacrifice himself to save Earth$dAct like a manga that spends multiple volumes on one flashback	就像在站台分别的恋人那样$d就像牺牲生命拯救了地球的宇航员那样$d就像被回想场面占掉了好几卷的漫画那样	global-jp-exact
+SEEN0423	1202	ああ$d悪いが、違う	Yeah$dSorry, but no	啊$d对不起，不是	global-jp-exact
+SEEN0423	1491	眠る$d気分転換	Sleep$dGo for a walk	睡觉$d转换下心情	pc-same-scene
+SEEN0423	1587	呼び止める$d放っておく	Call out to it$dDo nothing	叫住她$d不管她	global-jp-duplicate-same-zh
+SEEN0423	2911	代わりに出る$d出ない	Talk to her in Sunohara's place$dDon't talk to her	代春原接听$d不代他接听	global-jp-exact
+SEEN0424	504	水を口に含んでから言え$d常に語尾に『それと便座カバー』と付けろ$dいっこくどう風に言え	Say it with water in your mouth$dAlways add ❝and a toilet seat cover❞ to the end of your sentences$dSay it like Ikkokudou	把水含在嘴里说话吧$d无论何时都在话尾加上『还有马桶盖』吧$d用一国堂风格说话吧	pc-same-scene
+SEEN0424	2304	逃げる$d引き受ける	Run$dAccept your fate	逃掉$d受理	global-jp-exact
+SEEN0424	2697	呼びとめる$d放っておく	Call out to it$dDo nothing	叫住她$d不管她	pc-same-scene
+SEEN0424	3297	する$dしない	Play$dDon't play	参加$d不参加	pc-same-scene
+SEEN0425	595	呼びとめる$d放っておく	Call out to it$dDo nothing	叫住她$d不管她	pc-same-scene
+SEEN0425	1367	引き金を引いていた$d忠告をしていた	I pull the trigger.$dI warn her.	抠下了扳机$d提出了忠告	global-jp-exact
+SEEN0425	2634	勝負はあくまで冷徹に$d可哀想だから止めてやる	All's fair in love and war$dStop him because you feel bad	比赛时要彻底地冷酷$d真可怜，去阻止春原吧	global-jp-exact
+SEEN0425	3552	ふたりで学食で食べる$d春原に買いに行かせる$d食べない	Eat in the cafeteria together$dMake Sunohara go buy things$dDon't eat	两个人一起去食堂吃饭$d让春原去买饭$d不吃午饭	global-jp-exact
+SEEN0425	4160	グラウンド$d体育館$d職員室	The athletic grounds$dThe gym$dThe teachers' room	操场$d体育馆$d办公室	global-jp-exact
+SEEN0425	4464	グラウンド$d職員室	The athletic grounds$dThe teachers' room	操场$d办公室	global-jp-exact
+SEEN0425	4684	グラウンド$d体育館	The athletic grounds$dThe gym	操场$d体育馆	global-jp-exact
+SEEN0426	589	訊いてみる$d興味ない	Ask them what's wrong$dI'm not interested	问问看$d没兴趣	pc-same-scene
+SEEN0428	1705	いける$d却下	She'll work$dNo way	能行$d否决	global-jp-exact
+SEEN0428	2501	止める$d放っておく	Stop him$dDo nothing	阻止他$d看着不管	global-jp-exact
+SEEN0428	3530	一芝居打つ$d見送る	Put on an act$dWatch him leave	骗他加入$d目送	global-jp-exact
+SEEN0555	26	告白する$d見送る	Confess$dWatch her walk away	向她表白$d目送她离去	global-jp-duplicate-same-zh
+SEEN0555	45	告白する$d様子見する	Confess$dKeep watching	向她表白$d偷偷注视着她	global-jp-exact
+SEEN0555	64	告白する$d見送る	Confess$dWatch her walk away	向她表白$d目送她离去	global-jp-duplicate-same-zh
+SEEN0555	97	振り払う$d抱きしめる	Shake her off$dHug her	挣脱她$d拥抱她	global-jp-exact
+SEEN0555	131	スティーブといく$dひとりでいく	Go with Steve$dGo by yourself	跟史蒂夫一起走$d自己一个人走	global-jp-exact
+SEEN0555	160	スティーブに任せる$d自分で戦う	Leave it to Steve$dFight on your own	这里交给史蒂夫$d自己亲自战斗	global-jp-exact
+SEEN0555	191	開ける$d無視	Open it$dIgnore it	打开$d不打开	global-jp-exact
+SEEN0555	202	真っ直ぐ進む$d左に$d右に	Go straight$dGo left$dGo right	向前走$d向左走$d向右走	global-jp-exact
+SEEN0555	260	抱きしめる$d振り払う	Hug him$dShake him off	拥抱他$d挣脱他	global-jp-exact
+SEEN0555	296	一緒にいく$d振り払う	Go with her$dShake her off	一起行动$d挣脱她	global-jp-exact
+SEEN0555	425	リトライ$dもうやめる	Retry$dGive up	再挑战一次$d放弃了	global-jp-exact
+SEEN1001	0	暇だから、鼻からジュースを飲ませてみる$d待ち続ける	I'm bored. I should try to make her drink juice through her nose.$dKeep waiting	太无聊了，让她用鼻子喝果汁玩玩$d一直等下去	global-jp-exact
+SEEN1002	0	悪戯をする$d待ち続ける	Time for a prank$dKeep waiting	恶作剧$d耐心等下去	global-jp-exact
+SEEN1003	138	悪戯をする$d置いていく	Time for a prank$dJust leave her here	恶作剧$d不去管她	global-jp-duplicate-same-zh
+SEEN1004	680	悪戯をする$d置いていく	Time for a prank$dJust leave her here	恶作剧$d不去管她	global-jp-duplicate-same-zh
+SEEN1009	0	悪戯をする$d放っておく	Time for a prank$dDo nothing	恶作剧$d不去管她	global-jp-exact
+SEEN1417	154	立ち去る$d話しかけてみる	Just leave$dTry talking to her	离开$d向她搭话	global-jp-exact
+SEEN1418	89	捕まえる$d逃がす	Gotta catch 'er$dLet her go	抓住她$d放走她	global-jp-exact
+SEEN1418	643	立ち去る$dもう少し見ている	Leave$dI'll watch her just a bit more	离开$d再看一会	global-jp-exact
+SEEN1422	401	どっかに置いておく$d持って帰る	Leave it somewhere$dTake it home	把它丢掉$d带回家去	global-jp-exact
+SEEN1423	618	夕べ眠れずに泣いていたんだろ？$d四六時中も好きと言って$d余計なものなどないよね	You were up all night crying, right?$dTell me you love me 24/7$dThere is nothing unnecessary, right?	昨晚又哭了一夜吧？$d一天二十四小时连着说我爱你$d没有什么多余的东西吧	global-jp-exact
+SEEN1426	443	力ずくで連れていく$d置いていく	Forcibly take her along$dJust leave her here	把她硬拉去$d把她留在这里	global-jp-exact
+SEEN1426	3089	手伝うことにした$d退散することにした	Help her$dNot help her	决定帮助她$d决定全身而退	global-jp-exact
+SEEN1426	3522	わかった。付き合うよ$d俺のことも考えてくれ	All right. Count me in$dCould you think more about me?	好吧，我陪着你$d你也为我考虑一下嘛	global-jp-exact
+SEEN1427	927	正直にそのことを告げる$d内緒にしておく	Tell her the truth$dDon't tell her the truth	坦白告诉她$d暂时保密	manual-jp
+SEEN1427	1165	おもむろに鼻をつまむ$d大人しくしている	Slowly pinch her nose$dJust stay still	慢慢掐住她的鼻子$d老老实实待着	global-jp-exact
+SEEN1427	1754	そうだな…$dいや…	I guess so...$dNo...	是啊…$d不…	global-jp-exact
+SEEN1428	5358	孫の手$d長寿箸$d鮭をくわえた熊	Back-scratching hand$dLongevity chopsticks$dCarving of a bear with a salmon in its mouth	不求人$d长寿筷$d叼着鱼的熊	global-jp-exact
+SEEN1428	7873	話し合いに参加させる$d一息いれる	Make her join in the conversation$dTake a break	让她参加讨论$d休息一下	manual-jp
+SEEN1428	8309	悪戯をする$dやめておく	Time for a prank$dLeave her alone	恶作剧$d算了	global-jp-exact
+SEEN1429	495	渚についていく$dここに残る	Follow Nagisa$dStay here	跟着渚一起去$d留在这里	global-jp-exact
+SEEN1430	377	新校舎一階の廊下$d新校舎三階の廊下$d資料室	The corridor on the 1st floor of the new building$dThe corridor on the 3rd floor of the new building$dReference room	新校舍的一楼走廊$d新校舍的三楼走廊$d资料室	global-jp-exact
+SEEN1430	4264	肩を揉む$d鼻を揉む	Massage her shoulders$dMassage her nose	揉肩膀$d揉鼻子	global-jp-exact
+SEEN1502	1733	他を当たることにする$d無理を言う	Try another teacher$dKeep on pushing	去找别人$d继续说服	global-jp-exact
+SEEN1503	2744	ぐー$dちょき$dぱー	Rock$dScissors$dPaper	石头$d剪子$d布	global-jp-duplicate-same-zh
+SEEN1503	2870	ぐー$dちょき$dぱー	Rock$dScissors$dPaper	石头$d剪子$d布	global-jp-duplicate-same-zh
+SEEN1503	3034	ぐー$dちょき$dぱー	Rock$dScissors$dPaper	石头$d剪子$d布	global-jp-duplicate-same-zh
+SEEN1503	3112	ぐー$dぱー	Rock$dPaper	石头$d布	global-jp-exact
+SEEN1503	3222	ぐー$dちょき$dぱー	Rock$dScissors$dPaper	石头$d剪子$d布	global-jp-duplicate-same-zh
+SEEN1503	3444	ぐー$dぱー	Rock$dPaper	石头$d布	global-jp-exact
+SEEN1511	210	オッサンに任せておく$d代わる	Leave it to the old man$dBe THE man	交给大叔$d接替他	global-jp-exact
+SEEN1516	2134	キスしていいか？$dこのままでいてもいいか？	Can I kiss you?$dCan we stay like this?	可以接吻吗？$d可以继续这么待着吗？	global-jp-exact
+SEEN1516	2539	このままでいてもいいか？$dとっととどいてくれ	Can we stay like this?$dJust get off me already	可以继续这么待着吗？$d快点给我闪开	global-jp-exact
+SEEN2415	75	避難する$d成り行きを見守る	Escape$dWatch how things turn out	出去避难$d继续看下去	global-jp-exact
+SEEN2415	356	興味がある$d興味なし	I'm interested in this$dI'm not interested in this	我对此也颇感兴趣$d我对此毫无兴趣	global-jp-exact
+SEEN2417	188	見に行く$d教室に残る	Go and watch$dStay in the classroom	跟去看看$d留在教室里	global-jp-exact
+SEEN2418	370	引き受ける$d断る	Accept$dRefuse	接受$d拒绝	global-jp-exact
+SEEN2418	1428	蹴り返す$dよける	Kick him back$dDodge	踢回去$d躲开	pc-same-scene
+SEEN2418	1869	助ける$d腕を振りほどく	Help her$dShake off her hand	帮忙$d甩开她的手	global-jp-exact
+SEEN2419	308	もう、やめさせる$d放っておく	Have him stop it already$dLet him go	劝他放弃$d不管他	global-jp-exact
+SEEN2421	56	声をかける$d無視	Say something$dIgnore her	打招呼$d不理她	global-jp-exact
+SEEN2421	794	そうだな$dそうか？	I guess so$dIs that so	的确不错$d是这样吗？	global-jp-exact
+SEEN2421	1847	辛抱する$d強引に食べる	I'll just be patient$dI eat it anyway	忍耐$d硬要吃	global-jp-exact
+SEEN2422	125	今、帰るところ$d黙秘	I'm on my way home$dStay silent	现在正准备回去$d沉默	global-jp-exact
+SEEN2422	613	迷惑だ$dいや、そういうのじゃなくて…	You are bothering me$dNo, it's not like that	添麻烦了$d不，不是这个意思…	global-jp-exact
+SEEN2422	3366	もう、やめさせる$d春原と一緒に楽しむ	Have him stop it already$dHave fun together with Sunohara	该阻止他了$d和春原一起享受	global-jp-exact
+SEEN2423	5057	あいつが長く休んでいたことを$dあいつが演劇部を目指していたことを$dあいつがあんパンを食べていたことを	About how for a long time, she had to stop school$dAbout the fact that she's trying to reform the drama club$dAbout the fact that I saw her eating anpan	那家伙休学了很长时间$d那家伙以话剧社为目标$d那家伙吃过豆沙面包	global-jp-exact
+SEEN2424	2215	智代と居たいだけなのかもしれない$d退屈しのぎとして考えているのかもしれない	Perhaps I just want to be with Tomoyo$dPerhaps I just thought of her as a way to stave off boredom	说不定只是想和智代在一起$d说不定只是把她当作能够解闷的人罢了	global-jp-exact
+SEEN2425	365	キスにこだわる$d支度を始める	Fixate on just kissing$dStart getting ready	坚持要求接吻$d开始准备	global-jp-exact
+SEEN2426	340	外で食べる$d学食で食べる	Let's eat outside$dLet's eat in the school cafeteria	去外面吃$d在食堂里吃	global-jp-exact
+SEEN2502	280	なら、その分、今…$dおまえも想像しろ	In that case, right here and now$dWhy don't you imagine those things too, then	那么，不如现在…$d那你也想象一下嘛	global-jp-exact
+SEEN2502	317	エッチなこと$d柔軟体操	Something perverted$dSome gymnastics	做色色的事情$d做柔软体操	global-jp-exact
+SEEN2503	286	シミュレーションしてみる$dやめておく	Run a simulation$dLet's not	幻想一下$d算了吧	global-jp-duplicate-same-zh
+SEEN2503	730	シミュレーションしてみる$dやめておく	Run a simulation$dLet's not	幻想一下$d算了吧	global-jp-duplicate-same-zh
+SEEN2503	1405	ああ…たぶん$dいや…違う	Yeah... Probably$dNo... Probably not	嗯…差不多吧$d不…不是这样	global-jp-exact
+SEEN2504	228	度の過ぎた妄想をする$dじゃあな…と去る	Have a fantasy that exceeds all boundaries$dLeave for real	开始过分的妄想$d说再见然后离开	global-jp-exact
+SEEN2505	94	このままでいいと思った$dこのままじゃいけないと思った	Think things are fine like this$dThink things can't go on like this	就这样继续下去吧$d这样下去是不行的	global-jp-exact
+SEEN2506	1114	黙って智代に任せる$d口出しする	Silently let Tomoyo handle this$dInterfere	保持沉默，交给智代处理$d插嘴说话	global-jp-exact
+SEEN2506	3379	いい$dよくない	It's all right$dIt's not all right	好吧$d不行	pc-same-scene
+SEEN2511	1954	蹴り返す$dよける	Kick him back$dDodge	踢回去$d避开	pc-same-scene
+SEEN2511	3934	手伝う$d断る	Help$dRefuse	帮忙$d拒绝	global-jp-duplicate-same-zh
+SEEN3415	325	謝っておく$dムシする	Apologize$dIgnore her	道歉$d无视	global-jp-exact
+SEEN3416	67	婆さんに声をかける$dそのまま通り過ぎる	Talk to the old lady$dJust keep walking	和老婆婆打个招呼$d就这样走过去	global-jp-exact
+SEEN3416	1102	追求してみる$d特に気にしない	Try pressing for details$dDon't worry about it	试着追问下去$d没什么好介意的	global-jp-exact
+SEEN3418	1002	おっぱい占い$dトランプ占い	She uses boobs$dShe uses playing cards	胸脯占卜$d扑克占卜	global-jp-exact
+SEEN3418	2057	自分が占ってもらう$d春原を占わせる	Have her read my fortune$dLet Sunohara do it	自己去占卜$d让春原去占卜	global-jp-exact
+SEEN3421	34	右に跳ぶ$d待ち構える$d左に跳ぶ	Jump right$dStay still and brace for impact$dJump left	向右跳$d站稳等着它$d向左跳	global-jp-exact
+SEEN3422	1716	杏に向かってボタンを投げる$dとりあえず持っていく	Throw Botan toward Kyou$dTake him for now	把牡丹丢还给杏$d拿回去好了	global-jp-exact
+SEEN3423	641	逃げる$dついていく	Run$dFollow her	逃跑$d跟着去	global-jp-exact
+SEEN3424	3685	マジ？　いいのか？$dいや、もういらねぇ	Really? You will?$dNah, I don't want any more	真的？可以吗？$d不，已经不需要了	manual-jp
+SEEN3425	1124	どこかで時間をつぶす$d素直に校門へ向かう	Kill time somewhere$dJust go to the school gate	找个地方消磨时间$d老老实实地去校门口	global-jp-exact
+SEEN3425	3540	友達$d恋人$d夫婦	Friends$dLovers$dMarried	朋友$d恋人$d夫妇	global-jp-duplicate-same-zh
+SEEN3426	2834	それでも良かったら…$dだから付き合うのは…	Let's give it a try$dIt'd honestly be difficult	如果这样也没关系的话…$d所以交往的事还是…	global-jp-exact
+SEEN3428	122	このまま立ち去る$dとりあえず抱いて学校まで$d悲劇に酔いしれてみる	Just walk away$dBring him along to school$dAct like it's a tragedy	就这样离开$d还是抱到学校去吧$d把这当作悲剧来演	global-jp-exact
+SEEN3428	1817	長い髪が好き$d短い髪が好き	Long hair$dShort hair	喜欢长头发$d喜欢短头发	global-jp-exact
+SEEN3501	969	うまかったぞ…$dまずかったぞ…	It's good...$dIt's terrible...	很好吃啊…$d很难吃啊…	global-jp-exact
+SEEN3503	2925	練習をしてみる$d黙って杏を見ている	Try practicing$dStay quiet and look at Kyou	练习试试看$d默不作声地看着杏	global-jp-exact
+SEEN3504	156	タンザナイト$dアメジスト	Tanzanite$dAmethyst	坦桑蓝$d紫水晶	global-jp-exact
+SEEN3505	1609	友達$d恋人$d夫婦	Friends$dLovers$dMarried	朋友$d恋人$d夫妇	global-jp-duplicate-same-zh
+SEEN3505	1922	キスをする$dキスをしない	Kiss her$dDon't kiss her	接吻$d不接吻	global-jp-exact
+SEEN3507	1438	飛び出す$d立ち去る	Run out$dWalk away	飞奔出去$d走开	global-jp-exact
+SEEN4415	450	食べる$d断る	Eat$dRefuse	接受$d谢绝	global-jp-exact
+SEEN4417	177	ついていく$d一人でぶらつく	Follow her$dWander around alone	跟着她去$d自己闲逛	global-jp-exact
+SEEN4417	775	ページを切ってないか調べる$dどうでもいいので放っておく	Check for cut-up pages$dLeave it alone because I don't care	看看这些书有没有被剪过$d无所谓，不去管它	global-jp-exact
+SEEN4418	54	脅かしてやる$d隠れて様子を伺う	Surprise her$dHide and see what's up	吓她一下$d藏起来看看再说	global-jp-exact
+SEEN4418	832	図書室に入る$d教室に戻る	Enter the library$dReturn to class	进入图书室$d回教室	manual-jp
+SEEN4418	972	ページをめくる$d名前を呼ぶ$dほっぺたをつつく	Turn a page$dCall her name$dPoke her cheek	翻页$d叫名字$d捅脸蛋	global-jp-exact
+SEEN4418	1006	名前を呼ぶ$dほっぺたをつつく	Call her name$dPoke her cheek	叫名字$d捅脸蛋	global-jp-exact
+SEEN4418	1057	ページをめくる$d名前を呼ぶ	Turn a page$dCall her name	翻页$d叫名字	global-jp-exact
+SEEN4418	1681	放っておけない$dこれ以上関わりを持たない	I can't leave her alone$dI don't want to have anything to do with her	不能就这样不理她$d不想扯上更多的关系了	global-jp-exact
+SEEN4418	2006	これからはことみと食べる$d今まで通り渚と食べる	Start eating with Kotomi$dContinue eating with Nagisa as usual	以后在这里和琴美一起吃$d和之前一样，同渚一起吃	global-jp-exact
+SEEN4419	64	後を追って書店に入る$d放っておく	Follow her into the bookstore$dLeave her alone	跟在她身后进入书店$d不管她	global-jp-exact
+SEEN4419	1034	ここで別れる$d家まで送ると申し出る	Part ways here$dOffer to walk her home	在这里分别$d提出送她回家	manual-jp
+SEEN4420	901	図書室から立ち去る$dここにいていいか訊ねる	Leave the library$dAsk if it's all right to stay	离开图书室$d问能不能留在这里	manual-jp
+SEEN4420	1185	読む$d読まない	Read$dDon't read	读$d不读	manual-jp
+SEEN4421	3171	『違う』と答える$dちょっとからかってみる	Deny it$dTease her a bit	回答说「不是」$d试着捉弄她一下	global-jp-exact
+SEEN4423	943	職員室に行ってみる$dもう少し待ってみる	Go to the teacher's office$dWait a little longer	去办公室看看$d再稍微等一下	global-jp-exact
+SEEN4425	2488	素直に待っている$dもちろん逃げる	Wait for her$dRun away as fast as possible	老老实实等着$d没得说，逃	global-jp-exact
+SEEN4429	93	このまま家にいる$d外出する	Stay at home$dGo outside	就这样待在家里$d出门	manual-jp
+SEEN4430	2591	様子を見る$dことみを助ける	Keep watching$dHelp Kotomi	观察情况$d帮助琴美	global-jp-exact
+SEEN4503	359	ただの友人です$d今はまだ違いますが…	She's just a friend$dNot yet...	只是朋友而已$d现在还不是那样……	global-jp-exact
+SEEN4504	900	邪魔者たちを追い払う$dこのままでもいいか…	Get rid of the others$dJust keep things the way they are	赶走捣乱的家伙们$d算了，这样也好……	global-jp-exact
+SEEN4504	1177	意地でも二人きりでデートする$d…もうこのままでいい	Force your way into a date with just Kotomi$dJust keep things the way they are	好歹这也是两个人的约会啊。$d……算了，就这样吧。	global-jp-exact
+SEEN4505	305	告白する$dやめておく	Confess$dDon't do it	告白$d算了	global-jp-exact
+SEEN4505	1628	紳士の言葉を伝える$d今は黙っておく	Tell her what the gentleman said$dDon't tell her yet	把男士的话转达给琴美$d闭口不提	global-jp-exact
+SEEN4508	434	なぜそんなことを訊くんですか？$d付き合ってるというか…	Why ask something like that?$dWe're not really dating. It's more like...	为什么要问这种问题？$d我们算是正在交往吗……	global-jp-exact
+SEEN4510	396	やめる$d続ける	Quit$dKeep going	作罢$d继续	pc-same-scene
+SEEN4511	964	「あきらめるしかない」と言う$d「あきらめるな」と言う	Tell them they have to give up$dTell them they can't give up	说「只好放弃」$d说「不要放弃」	global-jp-exact
+SEEN4511	1772	やめる$d続ける	Quit$dKeep going	放弃$d继续	pc-same-scene
+SEEN5418	807	立ち去る$dもう少し話をする	Leave here$dTalk to her a bit more	离开$d再说几句话	global-jp-exact
+SEEN5418	1263	寝ていく$d教室に戻る	Just sleep$dReturn to the classroom	睡觉$d回教室	global-jp-exact
+SEEN5422	122	行く$d行かない	Go with Sunohara$dStay	去$d不去	global-jp-duplicate-same-zh
+SEEN5422	1062	杏$d椋$d智代	Kyou$dRyou$dTomoyo	杏$d椋$d智代	global-jp-exact
+SEEN5422	2165	杏$d椋	Kyou$dRyou	杏$d椋	global-jp-exact
+SEEN5423	1226	やる$dやらない	Try the spell$dDon't try the spell	试试看$d不干	global-jp-exact
+SEEN5424	474	する$dしない	Do it.$dDon't. Do. It.	玩$d不玩	pc-same-scene
+SEEN5424	963	試してみる$d春原にやる	Give it a try$dGive the coins to Sunohara	试试看$d给春原	global-jp-exact
+SEEN5424	1469	古河…$dではなく…	Furukawa...$dNot her...	古河…$d不是古河…	global-jp-exact
+SEEN5424	2917	風子…$dではなく…	Fuko...$dNot her...	风子…$d不是…	global-jp-exact
+SEEN5424	3106	智代…$dではなく…	Tomoyo...$dNot her...	智代…$d不是…	global-jp-exact
+SEEN5424	3817	杏…$dではなく…	Kyou...$dNot her...	杏…$d不是…	global-jp-exact
+SEEN5430	6055	起こす$dそのままにしておく	Wake her up$dLet her sleep	叫醒她$d就这样吧	global-jp-exact
+SEEN5430	8386	いい$dよくない	It's all right$dIt's not all right	好$d不好	pc-same-scene
+SEEN5430	10152	起こす$dこのまま寝かす	Wake her up$dLet her sleep	叫醒她$d让她继续睡下去	global-jp-exact
+SEEN6416	4170	そうしたい$dそんなわけにはいかない	I would$dI couldn't possibly	想那样做$d怎么可以那样	global-jp-exact
+SEEN6417	1790	色気$dイラスト$dコラボレーション	Sex appeal$dA drawing$dCollaboration	诱惑力$d插图$d合作伙伴	global-jp-exact
+SEEN6418	877	どんな演劇をやるんですか？$dビラの絵はなんなんですか？$d好きな男のタイプは？	What kinda plays are we gonna do?$dWhat's that drawing on the fliers?$dWhat kind of guys are you into?	会演怎样的话剧呢？$d海报上画的是什么东西？$d你喜欢哪种类型的男生？	global-jp-exact
+SEEN6418	1640	古河としばらく離れて歩く$d古河の手を引いて、走り抜ける	Get far away from Furukawa and keep walking$dGrab Furukawa's hand and run past him	和古河拉开点距离走$d拉着古河的手，快步跑掉	global-jp-exact
+SEEN6419	1074	様子を見に行く$d行かない	Go check on her$dStay	去看看情况$d不出去	global-jp-exact
+SEEN6420	116	古河の具合は？$d早苗さんは？	How's Furukawa doing?$dWhat's up with Sanae-san?	古河的身体状况怎么样？$d早苗呢？	global-jp-exact
+SEEN6421	275	急いで学食へ$d窓の外を見る	Hurry to the cafeteria$dLook out the window	赶紧去食堂$d看向窗外	manual-jp
+SEEN6421	1644	代わりに談判してくる$dもう一度古河に行かせる	Go to negotiate in her place$dMake Furukawa go again	代替她去谈判$d再让古河去一次	global-jp-exact
+SEEN6421	2140	さらに頑張らせる$d代わりに行ってくる	Make her try again$dGo in her place	让她继续努力$d我替她去	manual-jp
+SEEN6422	260	智代に話しかける$d素通りする	Talk to Tomoyo$dWalk straight by her	跟智代搭话$d直接走过去	manual-jp
+SEEN6422	2762	斬る$d盗む$d魔法	Slash$dSteal$dMagic	斩杀$d偷窃$d魔法	global-jp-exact
+SEEN6422	3044	風子に相談してみる$dもちろんやめる	Ask Fuko for help$dOf course I don't ask	和风子商量一下$d当然不行了	global-jp-exact
+SEEN6422	3209	藤林姉妹に相談$d担任に相談	Talk to the Fujibayashi sisters$dTalk to a homeroom teacher	和藤林姐妹商量$d和班主任商量	global-jp-exact
+SEEN6423	968	ああ$d違う	Yeah$dNo	是啊$d不是	global-jp-exact
+SEEN6423	2242	多分、そうなのだろう$d違う	She probably is$dNo	大概是这样吧$d不是的	global-jp-exact
+SEEN6423	2569	眠る$d気分転換	Sleep$dGo for a walk	睡觉$d转换心情	pc-same-scene
+SEEN6423	2665	呼び止める$d放っておく	Call out to it$dDo nothing	叫住她$d不管她	global-jp-duplicate-same-zh
+SEEN6424	156	呼びとめる$d放っておく	Call out to it$dDo nothing	叫住她$d不管她	pc-same-scene
+SEEN6424	1520	そのままでいる$d抱きしめる	Stay like this$dEmbrace her	就这样注视着她$d紧紧抱住她	global-jp-exact
+SEEN6425	2845	呼びとめる$d放っておく	Call out to it$dDo nothing	叫住她$d暂时不管她	pc-same-scene
+SEEN6426	1330	先を急ぐ$d訊いてみる	Rush ahead$dAsk them what's wrong	继续赶路$d问问看	manual-jp
+SEEN6426	3075	探す$d月曜にする	Look around$dWait until Monday	去找找看$d等到星期一	global-jp-exact
+SEEN6426	3121	幸村をメンバーに入れる$d入れない	Get Koumura to join$dDon't	让幸村加入队伍$d不要他加入	global-jp-exact
+SEEN6426	5040	ああ$dひとりで行ってくれ	Sure$dPlease go alone this time	好的$d自己一个人去吧	global-jp-exact
+SEEN6427	281	客だ$d手伝いだ	I'm a customer$dI'm helping out	来买面包$d来帮忙	global-jp-exact
+SEEN6427	1810	渚の肩を抱く$d我慢する	Put your arm around Nagisa's shoulder$dHold off	抱着渚的肩膀$d克制自己	global-jp-exact
+SEEN6428	1486	練習させる$d芽衣ちゃんと遊ばせる	Make her practice$dHave her play with Mei-chan	让她练习$d让她和芽衣玩	global-jp-exact
+SEEN6428	1896	新校舎で探す$d旧校舎で探す	Search the new school building$dSearch the old school building	在新校舍寻找$d在旧校舍寻找	global-jp-exact
+SEEN6428	1903	二階を探す$d三階を探す	Look around the second floor$dLook around the third floor	去二楼寻找$d去三楼寻找	global-jp-exact
+SEEN6428	2525	いける$dもう一度よく考えてみる	She'll work$dReally think about it one more time	能行$d再考虑一下	global-jp-exact
+SEEN6428	3737	運動不足の解消$d馬鹿のやり収め$d俺たちに貸しを作る	Making up for a lack of exercise$dOne last chance to have stupid fun$dGetting us to owe you one	避免运动不足$d最后做一次蠢事$d卖我们个人情	global-jp-exact
+SEEN6428	4809	説明する$dめんどくさいな…	Explain$dWhat a pain...	说明$d但很麻烦啊…	global-jp-exact
+SEEN6428	6967	頼む、メンバーになってくれ$d別に無理はしなくていいぞ	Join our team, please$dThere's no need to push yourself like that	拜托你了，请成为我们的一员吧$d不用特别勉强自己	global-jp-exact
+SEEN6428	7440	空き教室を探す$d資料室を探す	Search the empty classrooms$dSearch the reference room	去空教室找找$d去资料室找找	global-jp-exact
+SEEN6428	8875	いい$d考え直す	Sure$dReconsider	可以$d再考虑一下	global-jp-exact
+SEEN6428	9537	頼む$d頼まない	Ask her$dDon't ask her	邀请她$d不邀请她	global-jp-exact
+SEEN6428	9871	美佐枝さんにする$dそれもやめる	Go with Misae-san$dDon't do that either	选美佐枝$d还是算了	manual-jp
+SEEN6428	11558	練習する$d対策を練る	Practice$dFigure out a way around it	练习$d想对策	global-jp-duplicate-same-zh
+SEEN6428	11755	練習する$d対策を練る	Practice$dFigure out a way around it	练习$d想对策	global-jp-duplicate-same-zh
+SEEN6430	4092	最後は智代に$d最後は俺に	Give Tomoyo the last shot$dI'll take the last shot	最后一球给智代$d最后一球给我	global-jp-exact
+SEEN6430	5668	最後は芳野祐介に$d最後は俺に	Give Yusuke Yoshino the last shot$dI'll take the last shot	最后一球给芳野佑介$d最后一球给我	global-jp-exact
+SEEN6430	7423	最後は美佐枝さんに$d最後は俺に	Give Misae-san the last shot$dI'll take the last shot	最后选美佐枝$d最后选我	manual-jp
+SEEN6430	9652	最後はオッサンに$d最後は俺に	Give him the last shot$dI'll take the last shot	最后一球传给大叔$d最后一球传给我	global-jp-exact
+SEEN6430	11482	最後は杏に$d最後は俺に	Let Kyou take the last shot$dI'll take the last shot	最后一球给杏$d最后一球给我	global-jp-exact
+SEEN6444	988	訊いてみる$d興味ない	Ask them what's wrong$dI'm not interested	问问看他们$d不感兴趣	pc-same-scene
+SEEN6501	2504	プレゼントをする$dデートに誘う$d耳元で愛を囁き続ける	Giving her a present$dInviting her on a date$dWhispering sweet nothings into her ear	送礼物$d邀请她约会$d在耳边诉说爱意	global-jp-exact
+SEEN6502	2046	好き$d俺には渚がいる	I like her$dI have Nagisa	喜欢$d我已经有渚了	global-jp-exact
+SEEN6510	224	台本を奪う$d唇を奪う$d心を奪う	Steal her script$dSteal a kiss$dSteal her heart	夺走剧本$d夺走双唇$d夺走心	global-jp-exact
+SEEN6511	318	あんたはいい父親だ$dあんたは父親としては失格だ	You're a good father$dYou're a failure as a father	你是个很棒的父亲$d你作为父亲真是失职	global-jp-exact
+SEEN6511	2036	叫ぶ$d黙って見ている	Yell$dWatch silently	呼喊$d沉默地旁观	global-jp-exact
+SEEN6727	285	いい$dよくない	It's all right$dIt's not all right	可以$d不好	pc-same-scene
+SEEN6728	1224	好きにさせる$dやめさせる	Let her do it$dStop her	随便她$d阻止她	global-jp-exact
+SEEN6729	3356	何のつもりなのか訊く$dもう一度頼む	Ask her why she did it$dAsk her to do it again	问她到底怎么回事$d拜托再来一次	global-jp-exact
+SEEN6800	8895	自分を落ち着かせる$dばれなければいいと開き直る	Calm down$dDecide that it's fine as long as you're not caught	自己冷静下来$d只要不暴露就没关系	global-jp-exact
+SEEN6800_1	1787	いい$dいや、言葉以外で…	Yes$dNo, something other than words	可以$d不，还是言语以外……	global-jp-exact
+SEEN6800_1	1990	エッチなこととか…$dいや、言葉でいい	Doing something dirty...$dActually, words are fine	Ｈ的事情……$d算了，还是说话好	global-jp-exact
+SEEN6800_1	4774	誤解を解く$d好きに思わせておく	Clear up the misunderstanding$dLet them think whatever they want	解开误会$d让他们去想象好了	global-jp-exact
+SEEN6800_1	6073	黙ってじっとしている$d拒否する	Stay silent and don't move$dDeny it	默不作声$d拒绝	global-jp-exact
+SEEN6800_1	7182	テレビを見る$dタンスを漁る	Watch TV$dHunt through my drawers	看电视$d翻柜子	global-jp-exact
+SEEN6800_1	8001	創立者祭$d牛追い祭り$dエプロンだけの日	Founder's Festival$dThe running of the bulls$dApron only day	创立者祭$d追牛节$d只穿围裙日	manual-jp
+SEEN6800_1	8016	模試$d牛追い祭り$dエプロンだけの日	Mock exams$dThe running of the bulls$dApron only day	模拟考试$d追牛节$d只穿围裙日	manual-jp
+SEEN6800_1	8207	模試$dだんご追い祭り$dエプロンだけの日	Mock exams$dThe running of the dango$dApron only day	模拟考试$d追团子节$d只穿围裙日	manual-jp
+SEEN6800_1	10013	別にいいけど$d反対	It's fine with me$dNo way	倒也没什么$d反对	global-jp-exact
+SEEN6800_2	4259	ダメじゃなくて無理$d仕方がない…	It's not too much, it's impossible$dOh, fine	不是不愿意，是根本就办不到$d真是拿你没办法啊……	global-jp-exact
+SEEN6800_2	6022	違う$d………。	No$d......	不是的$d…………	global-jp-exact
+SEEN6800_2	7898	殴りつける$d堪える	Hit something$dHold it in	打上去$d忍耐	global-jp-exact
+SEEN6802_1	1098	見に行く$dここで待つ	Go look$dWait here	去看看$d在这里等	global-jp-exact
+SEEN6803	100	呼ぶ$d呼ばない	Call out$dSay nothing	呼唤她$d保持沉默	global-jp-exact
+SEEN6810	1425	後ろから抱きつく$d大人しくテレビを見ている	Hug her from behind$dQuietly keep watching TV	从后面抱住她$d继续老实看电视	global-jp-exact
+SEEN6810	1520	もっと強く抱きしめてみる$d邪魔になるだろうから、このままでいる	Hold her even closer$dIt could distract her; stay like this	抱得更紧一些$d会妨碍到她的吧，保持这样就好了	global-jp-exact
+SEEN6810	1603	調べてみる$dさすがにそれは失礼だ	Find out$dNow that would be going too far	调查一下$d这样做太失礼了	global-jp-exact
+SEEN6810	3493	オッサンの秘蔵エロ本$d早苗さんの下着$dいらない	The old man's stash of dirty books$dSanae-san's underwear$dI don't need anything	大叔秘藏的Ａ书$d早苗阿姨的内衣$d都不要	global-jp-exact
+SEEN6810	10497	そろそろ止める$dさらに傍観	She's had enough$dKeep watching	是时候制止了$d先看看再说吧	global-jp-exact
+SEEN6810	11458	気にしてる$d気にしていない	I do care$dI don't care	在意$d不在意	global-jp-exact
+SEEN6811	6554	協力する$d逃げ出す	Help him$dRun away	帮忙$d偷跑	global-jp-exact
+SEEN7000	2629	好き$dそういうのではなくて…	I do$dNo, it's not like that...	喜欢$d不是那样的……	global-jp-exact
+SEEN7100	78	立ち去る$dもう少し様子を見ている	Leave.$dSee what happens for a bit longer.	离开$d再看一会儿	global-jp-exact
+SEEN7100	565	手伝う$d断る	Help$dRefuse	帮忙$d拒绝	global-jp-duplicate-same-zh
+SEEN7102	75	正直に答える$d適当にごまかす	Answer honestly$dTry and deceive him somehow	说实话$d敷衍一下	global-jp-exact
+SEEN7102	135	チャンネルを替える$d歌う	Change the channel$dSing	换频道$d唱歌	global-jp-exact
+SEEN7102	960	同意する$dさらに続きを訊く	Agree$dAsk if there's more	同意$d询问后情	global-jp-exact
+SEEN7102	1662	明後日まで待って、一緒に行く$d渚ひとりに行かせる	Wait until the day after tomorrow and go together.$dLet Nagisa go alone.	等到后天再一起去$d让渚一个人去	manual-jp
+SEEN7200	2121	オッサンのこと$dエッチなこと	The old man$dSomething dirty	大叔的事$dＨ的事	global-jp-exact
+SEEN7200	2630	抱きしめる$dおはよう、と返す	Embrace her$dSay good morning back to her	抱住渚$d回答「早上好」	global-jp-exact
+SEEN7400	446	藤林姉妹$dそれ以外	Fujibayashi Sisters$dGo with someone else	藤林姐妹$d除此之外	global-jp-exact
+SEEN7400	457	姉$d妹	The older sister$dThe younger sister	姐姐$d妹妹	global-jp-exact
+SEEN7400	1749	古河にする$dそれ以外	Let's go with Furukawa$dGo with someone else	去拜托古河$d除此之外	global-jp-exact
+SEEN7400	2715	智代にする$dそれ以外	Let's go with Tomoyo$dGo with someone else	拜托智代$d除此之外	global-jp-exact
+SEEN7400	3748	風子にする$dそれ以外	Let's go with Fuko$dGo with someone else	拜托风子$d除此之外	global-jp-exact
+SEEN7400	4543	俺にする$dそれ以外	Let's go with me$dGo with someone else	我来假扮$d除此之外	global-jp-exact
+SEEN7401_3	1089	だったらいいけど$d遠くから見るぐらいいいだろ？	Well, that's good if that's the case.$dJust taking a look from a distance shouldn't hurt, right?	那就算了$d从远处看看他怎么样？	global-jp-exact
+SEEN7500	1595	また来ていいか訊く$dもう来ない	Ask whether I can come again$dDon't come again	问她还可以再来吗$d不会再来了	global-jp-exact
+SEEN7500	3269	叱ってくれるところ$d優しいところ$d戦闘力が高いところ	How you scold$dHow you're kind$dHow you have a high power level	严厉$d温柔$d战斗力很高	global-jp-exact
+SEEN7500	3280	心配してくれるところ$d優しいところ$d戦闘力が高いところ	How you worry$dHow you're kind$dHow you have a high power level	为我操心$d温柔$d战斗力很高	global-jp-exact
+SEEN7500	3291	布団がいい匂いするところ$d優しいところ$d戦闘力が高いところ	How your futon smells nice$dHow you're kind$dHow you have a high power level	被窝中的味道很香$d温柔$d战斗力很高	global-jp-exact
+SEEN7500	3329	心配してくれるところ$d布団がいい匂いするところ$d戦闘力が高いところ	How you worry$dHow your futon smells nice$dHow you have a high power level	为我操心$d被窝中的味道很香$d战斗力很高	global-jp-duplicate-same-zh
+SEEN7500	3367	心配してくれるところ$d優しいところ$d布団がいい匂いするところ	How you worry$dHow you're kind$dHow your futon smells nice	为我操心$d温柔$d被窝中的味道很香	global-jp-exact
+SEEN7500	3404	心配してくれるところ$d叱ってくれるところ$d戦闘力が高いところ	How you worry$dHow you scold$dHow you have a high power level	为我操心$d严厉$d战斗力很高	global-jp-exact
+SEEN7500	3415	布団がいい匂いするところ$d叱ってくれるところ$d戦闘力が高いところ	How your futon smells nice$dHow you scold$dHow you have a high power level	被窝中的味道很香$d严厉$d战斗力很高	global-jp-exact
+SEEN7500	3452	心配してくれるところ$d布団がいい匂いするところ$d戦闘力が高いところ	How you worry$dHow your futon smells nice$dHow you have a high power level	为我操心$d被窝中的味道很香$d战斗力很高	global-jp-duplicate-same-zh
+SEEN7500	3490	心配してくれるところ$d叱ってくれるところ$d布団がいい匂いするところ	How you worry$dHow you scold$dHow your futon smells nice	为我操心$d严厉$d被窝中的味道很香	global-jp-exact
+SEEN7500	3528	叱ってくれるところ$d優しいところ$d心配してくれるところ	How you scold$dHow you're kind$dHow you worry	严厉$d温柔$d为我操心	global-jp-exact
+SEEN7500	3539	布団がいい匂いするところ$d優しいところ$d心配してくれるところ	How your futon smells nice$dHow you're kind$dHow you worry	被窝中的味道很香$d温柔$d为我操心	global-jp-exact
+SEEN7500	3575	叱ってくれるところ$d布団がいい匂いするところ$d心配してくれるところ	How you scold$dHow your futon smells nice$dHow you worry	严厉$d被窝中的味道很香$d为我操心	global-jp-exact
+SEEN7500	3611	叱ってくれるところ$d優しいところ$d布団がいい匂いするところ	How you scold$dHow you're kind$dHow your futon smells nice	严厉$d温柔$d被窝中的味道很香	global-jp-exact
+SEEN7600	83	立ち去る$dゆすってみる	Leave$dTry shaking the person	离开这里$d摇一摇他	global-jp-exact
+SEEN7600	354	住所を調べて届けてやる$d破り捨てる	Find the address and give it back.$dTear it up	查清住址后送给他$d撕了扔掉	global-jp-exact
+SEEN7601	2470	まぁ…しょうがないな…$d宿を紹介してやる	Well... I guess it can't be helped...$dFind him to a place to stay	的确…是没有办法啊…$d给他介绍住处	global-jp-exact

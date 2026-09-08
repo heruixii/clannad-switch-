@@ -1,0 +1,33 @@
+{
+  "records": 71,
+  "size": 28488,
+  "sha256": "A3D0112CB373205E78B606A48D4AD820781ED9B3D106276188D958FC93BF171C",
+  "parse_bad": [],
+  "visible_old_english_residue": [],
+  "sort_keys_restored": true,
+  "directory_groups": 22,
+  "directory_group_keys": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "K",
+    "L",
+    "M",
+    "N",
+    "P",
+    "R",
+    "S",
+    "T",
+    "U",
+    "V",
+    "Z"
+  ]
+}

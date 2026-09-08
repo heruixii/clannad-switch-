@@ -1,0 +1,145 @@
+{
+  "base_fix4_sha256": "813DDDA4256B2032B073A56E70780CBD01604E34AA07DFB477064364F2F373BC",
+  "next_pool_addr": "0x1E484A",
+  "next_bytes": "e4b88be4b880e9a1b900",
+  "added_instruction_writes": 16,
+  "final_records": 205,
+  "size": 5074,
+  "sha256": "C43B1533B102E0A734ED2B69C070E880587F8885E74DB6053FD46B7AEFAB2B83",
+  "mapping": {
+    "Yes": [
+      1949828,
+      1993022
+    ],
+    "No": [
+      1952852,
+      1947212
+    ],
+    "Back": [
+      1981367,
+      1954210
+    ],
+    "Next": [
+      1975163,
+      1984586
+    ],
+    "NoKeywords": [
+      1960348,
+      1984596
+    ]
+  },
+  "writes": [
+    {
+      "label": "Yes",
+      "old": "0x1dc084",
+      "target": "0x1e693e",
+      "addr": "0x1c50",
+      "kind": "adrp"
+    },
+    {
+      "label": "Yes",
+      "old": "0x1dc084",
+      "target": "0x1e693e",
+      "addr": "0x1c54",
+      "kind": "add"
+    },
+    {
+      "label": "No",
+      "old": "0x1dcc54",
+      "target": "0x1db64c",
+      "addr": "0x1cac",
+      "kind": "adrp"
+    },
+    {
+      "label": "No",
+      "old": "0x1dcc54",
+      "target": "0x1db64c",
+      "addr": "0x1cb0",
+      "kind": "add"
+    },
+    {
+      "label": "Back",
+      "old": "0x1e3bb7",
+      "target": "0x1dd1a2",
+      "addr": "0x2a6c",
+      "kind": "adrp"
+    },
+    {
+      "label": "Back",
+      "old": "0x1e3bb7",
+      "target": "0x1dd1a2",
+      "addr": "0x2a70",
+      "kind": "add"
+    },
+    {
+      "label": "Next",
+      "old": "0x1e237b",
+      "target": "0x1e484a",
+      "addr": "0x3024",
+      "kind": "adrp"
+    },
+    {
+      "label": "Next",
+      "old": "0x1e237b",
+      "target": "0x1e484a",
+      "addr": "0x3028",
+      "kind": "add"
+    },
+    {
+      "label": "Next",
+      "old": "0x1e237b",
+      "target": "0x1e484a",
+      "addr": "0x16059c",
+      "kind": "adrp"
+    },
+    {
+      "label": "Next",
+      "old": "0x1e237b",
+      "target": "0x1e484a",
+      "addr": "0x1605a0",
+      "kind": "add"
+    },
+    {
+      "label": "Next",
+      "old": "0x1e237b",
+      "target": "0x1e484a",
+      "addr": "0x160750",
+      "kind": "adrp"
+    },
+    {
+      "label": "Next",
+      "old": "0x1e237b",
+      "target": "0x1e484a",
+      "addr": "0x160754",
+      "kind": "add"
+    },
+    {
+      "label": "NoKeywords",
+      "old": "0x1de99c",
+      "target": "0x1e4854",
+      "addr": "0x2fd4",
+      "kind": "adrp"
+    },
+    {
+      "label": "NoKeywords",
+      "old": "0x1de99c",
+      "target": "0x1e4854",
+      "addr": "0x2fd8",
+      "kind": "add"
+    },
+    {
+      "label": "NoKeywords",
+      "old": "0x1de99c",
+      "target": "0x1e4854",
+      "addr": "0x15f4f0",
+      "kind": "adrp"
+    },
+    {
+      "label": "NoKeywords",
+      "old": "0x1de99c",
+      "target": "0x1e4854",
+      "addr": "0x15f4f4",
+      "kind": "add"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+﻿# Full game / official source data: never commit
+pc汉化版/
+xci本体/
+升级档v1.0.7/
+汉化工作/01_container/
+汉化工作/02_romfs/
+汉化工作/tools/
+
+# Large extraction / roundtrip workspaces
+汉化工作/03_text/matched/
+汉化工作/03_text/pc_jp/
+汉化工作/03_text/pc_zh/
+汉化工作/03_text/pc_ui/
+汉化工作/03_text/switch_export/
+汉化工作/03_text/switch_extracted/
+汉化工作/03_text/switch_inject/
+汉化工作/03_text/switch_roundtrip/
+汉化工作/03_text/switch_work/
+汉化工作/03_text/ui_work/
+汉化工作/03_text/ns/
+
+# Generated build trees and binary releases
+汉化工作/05_build/
+汉化工作/06_release/
+汉化工作/07_archive/old_releases/
+汉化工作/07_archive/build_probes/
+
+# Nintendo / game package formats and large generated binaries
+*.xci
+*.nsp
+*.nsz
+*.nca
+*.tik
+*.cert
+*.PAK
+*.pak
+*.PAK.out
+*.zip
+*.7z
+*.rar
+
+# Private keys / credentials
+prod.keys
+*.keys
+*.key
+*.pem
+*.pfx
+*.p12
+.env
+.env.*
+
+# Python/editor temp
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

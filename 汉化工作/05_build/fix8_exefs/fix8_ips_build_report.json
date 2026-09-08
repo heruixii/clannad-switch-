@@ -1,0 +1,64 @@
+{
+  "base_fix7_sha256": "D4AFFE0A1401017579CA185B9469AA5AB04E022765E1A9BFC9CAEF0FA38374F2",
+  "runtime_name_sites": [
+    {
+      "addr": "0xd2e8",
+      "old": "ldrsw x8, [x8, #0x8c]",
+      "new": "mov x8, xzr",
+      "desc": "default-name checker: global UI lang -> slot index 0",
+      "old_bytes": "088d80b9",
+      "new_bytes": "e8031faa"
+    },
+    {
+      "addr": "0x143884",
+      "old": "ldrsw x20, [x0, #0x34c]",
+      "new": "mov x20, xzr",
+      "desc": "dialogue name getter first field: object lang -> slot 0",
+      "old_bytes": "144c83b9",
+      "new_bytes": "f4031faa"
+    },
+    {
+      "addr": "0x1438f0",
+      "old": "ldrsw x20, [x0, #0x34c]",
+      "new": "mov x20, xzr",
+      "desc": "dialogue name getter second field: object lang -> slot 0",
+      "old_bytes": "144c83b9",
+      "new_bytes": "f4031faa"
+    },
+    {
+      "addr": "0x16a0bc",
+      "old": "ldr w8, [x8, #0x8c]",
+      "new": "mov w8, wzr",
+      "desc": "NameEdit default comparison: force JP/default fields",
+      "old_bytes": "088d40b9",
+      "new_bytes": "e8031f2a"
+    },
+    {
+      "addr": "0x16a2d4",
+      "old": "ldr w8, [x8, #0x8c]",
+      "new": "mov w8, wzr",
+      "desc": "NameEdit first visible/edit field: force JP buffer",
+      "old_bytes": "088d40b9",
+      "new_bytes": "e8031f2a"
+    },
+    {
+      "addr": "0x16a3b0",
+      "old": "ldr w8, [x8, #0x8c]",
+      "new": "mov w8, wzr",
+      "desc": "NameEdit second visible/edit field: force JP buffer",
+      "old_bytes": "088d40b9",
+      "new_bytes": "e8031f2a"
+    },
+    {
+      "addr": "0xf87fc",
+      "old": "ldrsw x8, [x24, #0x8c]",
+      "new": "mov x8, xzr",
+      "desc": "restore default name: write JP/current slots",
+      "old_bytes": "088f80b9",
+      "new_bytes": "e8031faa"
+    }
+  ],
+  "records": 214,
+  "size": 5464,
+  "sha256": "BA4FAAFD0A27824EE3A75EDB8898B7650DC472DCC8B37D28514295E24886B765"
+}

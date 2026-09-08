@@ -1,0 +1,26 @@
+{
+  "zip_path": "D:\\switch游戏\\个人汉化\\clannad\\汉化工作\\06_release\\CLANNAD_CHS_LayeredFS_v1.0.7_fix8.zip",
+  "zip_size": 481679305,
+  "zip_sha256": "BB6CD0AC5555F9830B9B4FA2495F4F3E1AA752D4831044CA9144B642DB9AF286",
+  "zip_test_bad": null,
+  "entries": 13,
+  "duplicate_entries": 0,
+  "source_zip_mismatches": [],
+  "sha256sums_bad": [],
+  "ips_entries": [
+    "atmosphere/exefs_patches/CLANNAD_CHS_v1.0.7_fix8/CF38595316BAA425E792CE5CD122DFC600000000000000000000000000000000.ips"
+  ],
+  "ips_name_ok": true,
+  "romfs_paks": [
+    "FONT.PAK",
+    "MANUAL.PAK",
+    "OTHCG.PAK",
+    "PARTS.PAK",
+    "PARTS2.PAK",
+    "SCRIPT.PAK",
+    "SYSCG.PAK"
+  ],
+  "romfs_paks_ok": true,
+  "old_release_path_hits": [],
+  "total_bad": 0
+}

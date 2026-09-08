@@ -1,0 +1,82 @@
+{
+  "ips_size": 5074,
+  "ips_sha256": "C43B1533B102E0A734ED2B69C070E880587F8885E74DB6053FD46B7AEFAB2B83",
+  "records": 205,
+  "resolved": {
+    "Yes": [
+      {
+        "site": "0x1c50",
+        "add": "0x1c54",
+        "target": "0x1e693e",
+        "text": "是"
+      }
+    ],
+    "No": [
+      {
+        "site": "0x1cac",
+        "add": "0x1cb0",
+        "target": "0x1db64c",
+        "text": "否"
+      }
+    ],
+    "Back": [
+      {
+        "site": "0x2a6c",
+        "add": "0x2a70",
+        "target": "0x1dd1a2",
+        "text": "返回 "
+      }
+    ],
+    "Next": [
+      {
+        "site": "0x3024",
+        "add": "0x3028",
+        "target": "0x1e484a",
+        "text": "下一项"
+      },
+      {
+        "site": "0x16059c",
+        "add": "0x1605a0",
+        "target": "0x1e484a",
+        "text": "下一项"
+      },
+      {
+        "site": "0x160750",
+        "add": "0x160754",
+        "target": "0x1e484a",
+        "text": "下一项"
+      }
+    ],
+    "NoKeywords": [
+      {
+        "site": "0x2fd4",
+        "add": "0x2fd8",
+        "target": "0x1e4854",
+        "text": "没有百科词条。"
+      },
+      {
+        "site": "0x15f4f0",
+        "add": "0x15f4f4",
+        "target": "0x1e4854",
+        "text": "没有百科词条。"
+      }
+    ]
+  },
+  "site_bad": [],
+  "old_button_refs_remaining": {
+    "Yes": [],
+    "No": [],
+    "Back": [],
+    "Next": [],
+    "NoKeywords": []
+  },
+  "old_button_ref_count": 0,
+  "inherited_moved_config_refs_remaining": 0,
+  "inherited_system_refs_remaining": 0,
+  "changed_bytes": 3480,
+  "changed_outside_ips_ranges": 0,
+  "next_pool_text": "下一项",
+  "empty_keyword_text": "没有百科词条。",
+  "cfg_remaining": [],
+  "sys_remaining": []
+}

@@ -1,0 +1,82 @@
+{
+  "SCRIPT": {
+    "entries": 230,
+    "bad": [],
+    "missing": [],
+    "overlap": [],
+    "size": 15867120,
+    "sha256": "42FD1C6865A1EB094542A0DC8E7E367B624FDCE6FDEDBF9E3E04D200B49DA767"
+  },
+  "FONT": {
+    "entries": 68,
+    "bad": [],
+    "missing": [],
+    "overlap": [],
+    "size": 214833152,
+    "sha256": "6BB206241D50569AEA89A7AC407588C440521CE1C563094CFB4C2ED2A1E690AA"
+  },
+  "SYSCG": {
+    "entries": 42,
+    "bad": [],
+    "missing": [],
+    "overlap": [],
+    "size": 27609088,
+    "sha256": "64E0E8C03AD4688A3C2F211615E6F3CC9D095AED3BB272BA0AF7FC47F213C62F"
+  },
+  "PARTS": {
+    "entries": 116,
+    "bad": [],
+    "missing": [],
+    "overlap": [],
+    "size": 28835840,
+    "sha256": "A00EC8B1C6B8F7954206619473020C4B8875830DB25597AA2F7C5A50D89A42B7"
+  },
+  "MANUAL": {
+    "entries": 141,
+    "bad": [],
+    "missing": [],
+    "overlap": [],
+    "size": 16531456,
+    "sha256": "27C3AC70924ADC7D127550006A6D424AA0C917309E8D22C23743AA48591ABB79"
+  },
+  "OTHCG": {
+    "entries": 2913,
+    "bad": [],
+    "missing": [],
+    "overlap": [],
+    "size": 453218304,
+    "sha256": "A4EEDDC38C69213A2B0CEE43ADEA0059D8467C1BA354D61E0528E4918CAB2928"
+  },
+  "PARTS2": {
+    "entries": 117,
+    "bad": [],
+    "size": 4685824,
+    "sha256": "B7E046B10B8A2F5E492C24D5810CB15612CF9ADAEC0497A49117E99FE95BABBA"
+  },
+  "AUX_QA": {
+    "keyword_records": 71,
+    "keyword_parse_bad": 0,
+    "keyword_visible_english_residue": 0,
+    "keyword_sort_keys_restored": true,
+    "keyword_directory_groups": 22,
+    "button_static_english_bad": 0,
+    "dynamic_button_old_refs_remaining": 0,
+    "dynamic_button_site_bad": 0,
+    "ips_inherited_config_refs_remaining": 0,
+    "ips_inherited_system_refs_remaining": 0,
+    "ips_outside_changes": 0,
+    "font_report_failures": 0,
+    "font_info_failures": 0,
+    "font_required_zh_missing": 0,
+    "config_static_english_bad": 0,
+    "config_tab_layer_iou": 0.9780201976562078,
+    "title_old_menu_hits": 0,
+    "name_fix7_total_bad": 0,
+    "name_tomoya_remaining": 0,
+    "name_prompt_old_hits": 0,
+    "name_font_missing": 0,
+    "runtime_name_fix8_total_bad": 0,
+    "runtime_name_sites_bad": 0
+  },
+  "TOTAL_BAD": 0
+}

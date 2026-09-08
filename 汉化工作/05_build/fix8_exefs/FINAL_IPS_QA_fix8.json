@@ -1,0 +1,48 @@
+{
+  "ips_size": 5464,
+  "ips_sha256": "BA4FAAFD0A27824EE3A75EDB8898B7650DC472DCC8B37D28514295E24886B765",
+  "ips_records": 214,
+  "outside_writes": [],
+  "runtime_site_ok": [
+    [
+      "0xd2e8",
+      "mov x8, xzr"
+    ],
+    [
+      "0x143884",
+      "mov x20, xzr"
+    ],
+    [
+      "0x1438f0",
+      "mov x20, xzr"
+    ],
+    [
+      "0x16a0bc",
+      "mov w8, wzr"
+    ],
+    [
+      "0x16a2d4",
+      "mov w8, wzr"
+    ],
+    [
+      "0x16a3b0",
+      "mov w8, wzr"
+    ],
+    [
+      "0xf87fc",
+      "mov x8, xzr"
+    ]
+  ],
+  "runtime_site_bad": [],
+  "prompt_missing": [],
+  "old_prompt_hits": [],
+  "inherited_fix6_bad": [],
+  "name_slot_logic": {
+    "current_name_base": "0x2B98/0x2BDC",
+    "english_offset_stride": "0x22",
+    "default_base": "0x932/0x976",
+    "forced_runtime_index": 0
+  },
+  "script_fix7_tomoya_remaining": 0,
+  "total_bad": 0
+}

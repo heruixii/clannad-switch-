@@ -1,0 +1,15 @@
+{
+  "ips_size": 5401,
+  "ips_sha256": "D4AFFE0A1401017579CA185B9469AA5AB04E022765E1A9BFC9CAEF0FA38374F2",
+  "ips_records": 207,
+  "ips_outside_segment_writes": [],
+  "prompt_bad": [],
+  "old_name_prompt_hits": [],
+  "inherited_fix6_site_bad": [],
+  "font_missing_chars": [],
+  "font_missing_count": 0,
+  "seen2417_tomoya_remaining": 0,
+  "seen2417_pengyou_utf8_count": 1,
+  "script_sha256": "42FD1C6865A1EB094542A0DC8E7E367B624FDCE6FDEDBF9E3E04D200B49DA767",
+  "total_bad": 0
+}
