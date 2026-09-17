@@ -1,0 +1,63 @@
+{
+  "fix8_sha256": "BA4FAAFD0A27824EE3A75EDB8898B7650DC472DCC8B37D28514295E24886B765",
+  "fix9_sha256": "94E21F8033F75A7FA7D893C6B46B3DE76538DF6D772111B5A3C254B0AE7CAE6C",
+  "fix8_records": 214,
+  "fix9_records": 208,
+  "fix8_overlap_bytes": 0,
+  "fix9_overlap_bytes": 0,
+  "removed_bytes": 48,
+  "expected_removed_bytes": 48,
+  "removed_exact_match": true,
+  "added_bytes": 0,
+  "changed_common_bytes": 0,
+  "close_target": "0x1e4276",
+  "fix8_close_pairs": [
+    [
+      "0x2a00",
+      "0x2a04"
+    ],
+    [
+      "0x11d24c",
+      "0x11d250"
+    ],
+    [
+      "0x160550",
+      "0x160554"
+    ],
+    [
+      "0x1606c4",
+      "0x1606c8"
+    ],
+    [
+      "0x167edc",
+      "0x167ee0"
+    ],
+    [
+      "0x169ad0",
+      "0x169ad4"
+    ],
+    [
+      "0x16d7b8",
+      "0x16d7bc"
+    ]
+  ],
+  "fix9_close_pairs": [
+    [
+      "0x2a00",
+      "0x2a04"
+    ]
+  ],
+  "fix9_only_expected_display_pair": true,
+  "runtime_name_sites_checked": [
+    "0xd2e8",
+    "0x143884",
+    "0x1438f0",
+    "0x16a0bc",
+    "0x16a2d4",
+    "0x16a3b0",
+    "0xf87fc"
+  ],
+  "runtime_name_sites_changed": [],
+  "all_other_fix8_patch_bytes_identical": true,
+  "total_bad": 0
+}

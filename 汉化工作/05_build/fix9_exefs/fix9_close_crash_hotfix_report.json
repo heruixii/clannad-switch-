@@ -1,0 +1,44 @@
+{
+  "base": "D:/switch游戏/个人汉化/clannad_fix_debug/repo/汉化工作/05_build/fix8_exefs/CF38595316BAA425E792CE5CD122DFC6.ips",
+  "output": "D:/switch游戏/个人汉化/clannad_fix_debug/repo/汉化工作/05_build/fix9_exefs/CF38595316BAA425E792CE5CD122DFC6.ips",
+  "reason": "route-clear system-data acknowledgement crash: revert fix4 global Close xrefs while keeping fix3 display xref",
+  "close_chinese_target": "0x1E4276",
+  "kept_display_pc_pair": [
+    "0x2a00",
+    "0x2a04"
+  ],
+  "reverted_pc_pairs": [
+    [
+      "0x11d24c",
+      "0x11d250"
+    ],
+    [
+      "0x160550",
+      "0x160554"
+    ],
+    [
+      "0x1606c4",
+      "0x1606c8"
+    ],
+    [
+      "0x167edc",
+      "0x167ee0"
+    ],
+    [
+      "0x169ad0",
+      "0x169ad4"
+    ],
+    [
+      "0x16d7b8",
+      "0x16d7bc"
+    ]
+  ],
+  "removed_patch_bytes": 48,
+  "fix8_size": 5464,
+  "fix9_size": 5386,
+  "fix8_sha256": "BA4FAAFD0A27824EE3A75EDB8898B7650DC472DCC8B37D28514295E24886B765",
+  "fix9_sha256": "94E21F8033F75A7FA7D893C6B46B3DE76538DF6D772111B5A3C254B0AE7CAE6C",
+  "fix8_records": 214,
+  "fix9_records": 208,
+  "all_remaining_patch_bytes_identical_to_fix8": true
+}
