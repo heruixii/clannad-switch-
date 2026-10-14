@@ -1,62 +1,77 @@
 # CLANNAD Nintendo Switch 简体中文汉化（ALTIRKIE）
 
-[![版本](https://img.shields.io/badge/CLANNAD-v1.0.7-blue)](https://github.com/heruixii/clannad-switch-/releases) [![最新修复](https://img.shields.io/badge/汉化-fix10-success)](https://github.com/heruixii/clannad-switch-/releases/tag/v1.0.7-fix10)
+**当前版本：CLANNAD v1.0.7 fix10 · 完整一包安装版（2026-10-14）**
 
-这是《CLANNAD》Nintendo Switch 版的**简体中文移植汉化工程**。文本来源为既有 PC 版《CLANNAD FV 汉化补丁 2.0》，Switch 移植汉化：**ALTIRKIE**。
+- 游戏：Nintendo Switch《CLANNAD》v1.0.7
+- Title ID：`0100A3A00CC7E000`
+- Nintendo Switch 移植汉化：**ALTIRKIE**
+- PC 中文文本基础：**CLANNAD FV 汉化补丁 2.0**
 
-**目标游戏版本：v1.0.7**　·　**Title ID：`0100A3A00CC7E000`**　·　当前发布：**fix10（2026-10-14）**
+## 下载——只需一个完整包
 
-> **新用户注意：fix10 是升级修复包，不是独立的全量包。** 必须先安装 [fix8 完整汉化包](https://github.com/heruixii/clannad-switch-/releases/tag/v1.0.7-fix8)，再安装 [fix10 升级修复包](https://github.com/heruixii/clannad-switch-/releases/tag/v1.0.7-fix10)。已经完整安装 fix8/fix9 的用户只需按下文升级。
+[**下载 fix10 完整汉化包（约 463 MiB）**](https://github.com/heruixii/clannad-switch-/releases/download/v1.0.7-fix10/CLANNAD_CHS_v1.0.7_fix10_FULL_20261014.zip) · [GitHub Release 与校验文件](https://github.com/heruixii/clannad-switch-/releases/tag/v1.0.7-fix10)
 
-## 最新修复：fix10
+`CLANNAD_CHS_v1.0.7_fix10_FULL_20261014.zip`
 
-先前部分存档会在 **4 月 14 日春原宿舍录音机剧情**附近闪退，Atmosphère 报告显示 `MakeTextThread` 异常。定位后确认：LucaSystem 剧情回编时文本长度变化，但一些 `GOTO`/条件分支/跨场景跳转仍保留旧的绝对地址。
+**本版本已经整合旧 fix8 完整汉化资源与 fix10 剧情修复，首次安装无需再下载 fix8/fix9。** 只需一个 ZIP，内含全部七个 RomFS PAK 和一个 ExeFS IPS。老版本安装包已停止发布，避免用户误装、叠装。
 
-- 解析 **213 个场景脚本**，重定位 **170 个场景中的 6,566 个跳转地址引用**；原始中文译文不变。
-- 保持已验证的中文 `FONT.PAK`，ExeFS 使用仅一份 **fix9 IPS**，继续支持菜单、设置、主角姓名等功能。
-- **实机已验证**：使用 No.1 旧存档推进春原录音机及后续日期不再闪退；中文字库、菜单、设置、姓名等显示正常。
-- **验证范围限制**：尚未逐条完成所有角色路线及 After Story 的全流程通关，不能保证所有可能路径均不存在其他独立问题。
+## 新用户：直接安装
 
-下载：[**v1.0.7-fix10 GitHub Release**](https://github.com/heruixii/clannad-switch-/releases/tag/v1.0.7-fix10)（ZIP 约 205 MB）
+1. 确认游戏已经更新到 **v1.0.7**，通过 Atmosphère 正常启动。
+2. 完全退出游戏，建议先备份 SD 卡与存档。
+3. 下载 fix10 ZIP，解压后得到 `atmosphere` 文件夹，**将它复制到 SD 卡根目录并合并**。
+4. 检查有七个 RomFS PAK，且对本游戏仅有**一个生效的** ExeFS IPS。启动游戏即可。
 
-## 卸载旧版并升级 fix10
+## 旧版用户：先清理，再直接安装
 
-**操作前彻底退出游戏，备份存档和 SD 卡上现有汉化文件。不要删除游戏本体或存档。**
+1. 退出 CLANNAD，**备份**旧汉化文件和游戏存档。
+2. 仅从 SD 卡 `atmosphere/exefs_patches/` 移走 `CLANNAD_CHS_*` 旧目录（fix3～fix9 等）；**不要动其它游戏补丁**。
+3. 从 SD 卡 `atmosphere/contents/0100A3A00CC7E000/romfs/` 移走旧汉化安装的七个 PAK 和已备份的 `.disabled` 调试副本。**不要删除游戏本体、存档或其它 Mod**。
+4. 解压最新的 fix10 完整 ZIP，将其 `atmosphere` 放到 SD 卡根目录，合并文件夹。
+5. 完全重启 CLANNAD，读取原存档，检查中文与剧情。
 
-1. 确认游戏版本为 **v1.0.7**，且 Atmosphère 能正常启动游戏。
-2. 在 SD 卡 `atmosphere/exefs_patches/` 中，找出所有 `CLANNAD_CHS_*` 旧文件夹（fix3～fix9 等），**先复制到 SD 卡根目录以外的备份位置或电脑，再移出 `exefs_patches`**。不要同时留下两个针对同一个 Build ID `CF38595316BAA425E792CE5CD122DFC6` 的有效 `.ips`。
-3. 进入 `atmosphere/contents/0100A3A00CC7E000/romfs/`，备份原 `SCRIPT.PAK` 和 `FONT.PAK`。**保留**先前完整汉化提供的 `MANUAL.PAK`、`OTHCG.PAK`、`PARTS.PAK`、`PARTS2.PAK`、`SYSCG.PAK`，不要删除这些文件。
-4. 下载 [fix10 升级包](https://github.com/heruixii/clannad-switch-/releases/tag/v1.0.7-fix10)，解压并将其内部的 `atmosphere` 文件夹复制到 SD 卡根目录，合并文件夹，允许覆盖 `SCRIPT.PAK` 和 `FONT.PAK`。
-5. 完成后检查：`romfs` 内是 **7 个汉化 PAK**；`atmosphere/exefs_patches/CLANNAD_CHS_v1.0.7_fix9/` 内只有 **1 份**匹配 Build ID 的 IPS；**不要再启用 fix3～fix8 IPS**。这是 fix10 的正常结构：组合包沿用 fix9 的 ExeFS 二进制文件。
-6. 完全重启 CLANNAD，读取原有存档，检查剧情、标题菜单、设置、主角姓名和中文字体。
+> **为什么内部 ExeFS 目录仍叫 `fix9`？** fix10 修正的是剧情 `SCRIPT.PAK` 的跳转地址，程序 IPS 沿用实机验证过的 fix9 二进制。不要额外启用任何历史 IPS。
 
-如果你是**首次安装**：先安装 [fix8 完整包](https://github.com/heruixii/clannad-switch-/releases/tag/v1.0.7-fix8) 以获得七个 RomFS 资源，再执行以上步骤安装 fix10。**只解压 fix10 不能替代完整 fix8 的全部 UI、手册和图片资源。**
+查看 [详细安装、升级、完全卸载与排错指南](汉化工作/docs/06-fix10-升级卸载与排错.md)。
 
-更详细的升级、完全卸载与回退方案见 [fix10 安装及排错文档](汉化工作/docs/06-fix10-升级卸载与排错.md)。
+## 正确安装后的文件结构
 
-## 如何彻底卸载汉化（恢复原版）
+```text
+atmosphere/
+├── contents/0100A3A00CC7E000/romfs/
+│   ├── SCRIPT.PAK
+│   ├── FONT.PAK
+│   ├── MANUAL.PAK
+│   ├── OTHCG.PAK
+│   ├── PARTS.PAK
+│   ├── PARTS2.PAK
+│   └── SYSCG.PAK
+└── exefs_patches/CLANNAD_CHS_v1.0.7_fix9/
+    └── CF38595316BAA425E792CE5CD122DFC600000000000000000000000000000000.ips
+```
 
-先备份、关闭游戏，再将 `atmosphere/exefs_patches/` 下**仅属于 CLANNAD** 的 `CLANNAD_CHS_*` 目录移出或删除，并将 `atmosphere/contents/0100A3A00CC7E000/romfs/` 中已安装的汉化资源文件移出或删除。若该 Title ID 下还有你自己安装的其它 Mod，只移除汉化覆盖文件，不要误删其他内容。
+## 修复结果与验收范围
 
-**无需卸载游戏本体、更新或删除存档。** 若不确定哪些文件属于汉化，先移至电脑备份，不要永久删除。
+之前使用 No.1 存档在春原宿舍录音机剧情处出现 `MakeTextThread` 崩溃。原因是重编译后的脚本仍保留原文本长度对应的旧绝对跳转地址。fix10 全局解析 **213 个脚本**，修正 **170 个场景、6,566 个跳转地址引用**，保留原有中文文本。
 
-## 汉化范围
+2026-10-14 已在实际 Switch 上确认原崩溃点及后续日期不再闪退、中文正常、标题菜单/设置/主角姓名正常。**尚未逐条完整通关全部角色路线和 After Story**，不承诺不存在任何未发现的新问题。
 
-本篇、各角色路线、**After Story（后日谈）**剧情、剧情选项、标题与系统菜单、设置页面、团子百科、主人公姓名、中文字体及相关 UI/手册文本。部分 logo、商标和控制器键位符号保留原样。
+汉化涵盖本篇、各角色线、After Story、系统按钮与提示、菜单设置、团子百科、主角姓名和相关中文界面/手册。
 
-## 工程、贡献与版权说明
+详细技术信息：[修复根因与全局 QA](汉化工作/docs/07-fix10-根因与全局QA.md)。
 
-仓库主要提供翻译工程元数据、构建/校验脚本、使用说明以及相关修复分析。编译脚本中的跳转修复可通过 [fix10 重新定位工具](汉化工作/04_scripts/rebase_script_absolute_branches_fix10.py) 重现，必须使用者合法取得的原有 `SCRIPT.PAK`，并验证源文件校验值。
+## 校验
 
-- 原作：KEY / VisualArt's。
-- PC 中文译文基础：CLANNAD FV 汉化补丁 2.0；现有资料中未能核实的原 PC 汉化组成员不作杜撰。
-- Nintendo Switch 移植汉化与本次修复：**ALTIRKIE**。详见 [贡献与署名](汉化工作/docs/03-贡献与署名.md)。
-- 仓库不包含游戏本体、密钥或官方游戏安装文件；Release 的 fix10 仅针对已安装汉化的升级操作。使用时应自行遵守软件许可和当地法规。
+- 完整 ZIP 大小：**485,507,985 字节**（约 463 MiB）
+- SHA-256：`E8CC4767AB446CA2C9D550F3B1EECE91ACCF872549BF516EC69A6C43C04E4732`
+- 压缩包含完整 7 个 PAK + 1 个 IPS，所有内容已逐个 SHA-256 核对。
 
-## 发布与问题反馈
+## 工程与贡献
 
-- [fix10 升级修复](https://github.com/heruixii/clannad-switch-/releases/tag/v1.0.7-fix10)（当前版本，优先使用）
-- [fix8 完整安装基线](https://github.com/heruixii/clannad-switch-/releases/tag/v1.0.7-fix8)（首次安装时需要）
-- [fix9 历史诊断热修复](https://github.com/heruixii/clannad-switch-/releases/tag/v1.0.7-fix9-test)（已由 fix10 组合取代，不建议单独使用）
+仓库保留可复现的脚本处理流程和 QA 文档；[修复脚本](汉化工作/04_scripts/rebase_script_absolute_branches_fix10.py) 可在提供原始合法获取的汉化脚本和译文表后重建，结果与实机验证的 `SCRIPT.PAK` 字节相同。仓库 Git 提交不放入游戏本体或密钥。
 
-若遇到未覆盖的崩溃，请附游戏版本、哪个存档/日期/剧情、实际生效的 IPS、截图以及 Atmosphère 的 crash report；保留原存档以便重现。
+原作 KEY / VisualArt's，PC 中文译文来源 CLANNAD FV 汉化补丁 2.0；未能核实的原汉化组成员姓名不自行补造。Switch 移植汉化：**ALTIRKIE**。更多见 [贡献与署名](汉化工作/docs/03-贡献与署名.md)。
+
+### 问题反馈
+
+如发现崩溃，请提供游戏版本、剧情日期、存档位置、截图和 Atmosphère 崩溃日志。不要通过反复覆盖原存档来测试。

@@ -38,3 +38,11 @@ python 汉化工作/04_scripts/rebase_script_absolute_branches_fix10.py \
 ```
 
 只有原 SHA256 `42FD1C6865A1EB094542A0DC8E7E367B624FDCE6FDEDBF9E3E04D200B49DA767` 的输入文件才会通过默认防误用检查。写入前应备份所有旧文件，绝不直接覆盖输入。
+
+## 2026-10-14：最终发布为完整单包（取代旧升级 ZIP）
+
+从已存档 GitHub fix8 完整基础 ZIP 逐项提取另外五个原有汉化 PAK，确认 SHA-256 与工程发布校验文件一致；加上本次已通过实机验收的 `SCRIPT.PAK`、`FONT.PAK` 和唯一 fix9 ExeFS IPS，共七个 PAK 与一个 IPS。
+
+**当前最终发布**：`CLANNAD_CHS_v1.0.7_fix10_FULL_20261014.zip`，大小 485,507,985 字节，SHA-256：`E8CC4767AB446CA2C9D550F3B1EECE91ACCF872549BF516EC69A6C43C04E4732`。发布 ZIP 全部 13 个成员经重新打开并逐个哈希验证；无需用户另外下载 fix8。
+
+旧的 `CLANNAD_CHS_v1.0.7_fix10_jumpfix_UPGRADE_20261014.zip` 为临时升级版，不再作为最新公开下载提供。
