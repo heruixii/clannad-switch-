@@ -1,4 +1,4 @@
-﻿# GitHub 备份说明
+# GitHub 备份说明
 
 ## 目的
 
@@ -34,13 +34,13 @@
 - `07_archive/old_releases`
 - 私有密钥（`prod.keys`、`*.keys` 等）
 
-## 最终发布版本记录
+## 发布版本记录
 
-最终本地发布包：
+历史 fix8 完整基线发布包：
 
 `汉化工作/06_release/CLANNAD_CHS_LayeredFS_v1.0.7_fix8.zip`
 
-最终 ZIP SHA256：
+历史 fix8 ZIP SHA256：
 
 `BB6CD0AC5555F9830B9B4FA2495F4F3E1AA752D4831044CA9144B642DB9AF286`
 
@@ -53,3 +53,13 @@
 `汉化工作/docs/05-工程目录与复现说明.md`
 
 仓库不会保存或分发游戏本体、系统密钥、固件或完整官方资源。
+
+## 2026-10-14：fix10 修复升级包
+
+- 最新 Release：[v1.0.7-fix10](https://github.com/heruixii/clannad-switch-/releases/tag/v1.0.7-fix10)
+- 版本：`CLANNAD_CHS_v1.0.7_fix10_jumpfix_UPGRADE_20261014.zip`，大小 214,483,509 字节；SHA-256：`C960EFA7E8CDE73840DEC2E349155F239662CEDB5DA9033E303EBB2E0136CC30`。
+- 已检查 213 个剧情脚本，修复 170 个场景共 6,566 处绝对跳转引用；修复后 SCRIPT SHA256：`DC2AD2D10654226C8013E46C07B8C9D44BC5CEC147500AB684AD66C26016D5AD`。
+- 此 ZIP **仅为 fix8 完整汉化之上的升级修复包**：包含 `SCRIPT.PAK`、`FONT.PAK` 与唯一的 fix9 ExeFS IPS；另外五个 UI/资源 PAK 必须由 fix8 完整安装提供。
+- README 已更新卸载旧版/安装修复的步骤；其它详细说明参阅 `汉化工作/docs/06-fix10-升级卸载与排错.md`。
+- 出于 GitHub 单文件大小限制，发布 ZIP 作为 Release **附件**，不会直接进入 Git 提交。
+- 早期 fix8、fix9 记录保留用于历史追溯，不应作为最新稳定版。
